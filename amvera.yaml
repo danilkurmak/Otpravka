@@ -1,0 +1,8 @@
+meta:
+  environment: csharp
+  toolchain:
+    name: dotnet
+    version: "8.0"
+
+run:
+  containerPort: 80
